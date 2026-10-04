@@ -59,3 +59,7 @@ elif estadoActual == ESTADO_GIROS_ALEATORIOS:
         # Fin del tiempo de espiral, volvemos a explorar la sala
         estadoActual = ESTADO_AVANZAR
         tiempo_limite = time.time() + random.uniform(3.0, 6.0)
+
+```
+## Conclusión
+El sistema con el tiempo suficiente (30 minutos aproximadmente) puede cubrir casi el 100% del terreno a rellnar en el ejemplo pero pasando muchas veces por el mismo sitio, pero esto significa que la aleatoriedad si ayuda a cubrir muchas zonas en terros irregulares y descnocidos, es una buena solucion temporal, pero para poder implemntar un robot mas rápido y eficaz habria que aplicarle una memoria al robot y el uso de mas sensores para unas mayor orientcacion en el entorno.
