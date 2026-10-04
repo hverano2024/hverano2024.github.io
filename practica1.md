@@ -15,6 +15,8 @@ A continuación se muestra el resultado final de la ejecución, donde el robot l
 
 [![Vídeo demostrativo de la Práctica 1](https://img.youtube.com/vi/v2IEI4C4_fs/0.jpg)](https://www.youtube.com/watch?v=v2IEI4C4_fs)
 
+Hay que hacer click en la imagen superior para acceder al video
+
 <img width="100%" alt="Captura de cobertura final" src="https://github.com/user-attachments/assets/c0e90673-662f-463e-a869-ac34d51f1da2" />
 ---
 
