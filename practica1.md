@@ -9,13 +9,12 @@ El objetivo de esta práctica es programar una aspiradora automática que recorr
 
 ## Vídeo Demostrativo
 
-A continuación se muestra el resultado final de la ejecución, donde el robot logra limpiar la habitación alternando entre movimientos en línea recta y espirales para cubrir el centro de las salas. He conseguido un 67% en 15 minutos de vídeo y, dejándolo un rato más, he llegado a un 95,31%.
+A continuación se muestra el resultado final de la ejecución, donde el robot logra limpiar la habitación alternando entre movimientos en línea recta y espirales para cubrir el centro de las salas. He conseguido un 47% en 12 minutos de vídeo y, dejándolo un rato más, he llegado a un 95,31%.
 
-[![Vídeo demostrativo de la Práctica 1](https://img.youtube.com/vi/v2IEI4C4_fs/0.jpg)](https://www.youtube.com/watch?v=v2IEI4C4_fs)
+[![Vídeo demostrativo de la Práctica 1](https://www.youtube.com/watch?v=Dfyiy2HQqYU)
 
 Hay que hacer click en la imagen superior para acceder al video
 
-<img width="100%" alt="Captura de cobertura final" src="https://github.com/user-attachments/assets/c0e90673-662f-463e-a869-ac34d51f1da2" />
 ---
 
 ## Enfoque de la Solución
