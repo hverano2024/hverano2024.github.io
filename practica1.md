@@ -23,7 +23,8 @@ Hay que hacer click en la imagen superior para acceder al video
 
 Para hacer el mejor recorrido posible he utiizado dos ideas principales primero una maquina de estados finitos con las siguiente estructura.
 La arquitectura se divide en 4 estados principales:
-1. **ESTADO_AVANZAR:** Es el comportamiento deffault, pero para que no recorra de punta a punta la casa entera y esquive zonas si barrer le incluí un if con una condicion de tiempo para que evite ir demasiado tiempo en linea recta, y 2. 2.**RETROCEDER:** Al detectar un obstáculo cerca (< 0.5m), el robot invierte los motores brevemente para separarse de la pared y ganar espacio de maniobra.
+1. **ESTADO_AVANZAR:** Es el comportamiento deffault, pero para que no recorra de punta a punta la casa entera y esquive zonas si barrer le incluí un if con una condicion de tiempo para que evite ir demasiado tiempo en linea recta, y
+2. **RETROCEDER:** Al detectar un obstáculo cerca (< 0.5m), el robot invierte los motores brevemente para separarse de la pared y ganar espacio de maniobra.
 3. **GIRAR:** Rotación pseudoaleatoria para cambiar la trayectoria, controlada por un temporizador no bloqueante.
 4. **ESPIRAL:** Tras esquivar una pared, el robot pasa a este estado durante unos segundos para trazar una espiral creciente. Esto es vital para cubrir los espacios abiertos en el centro de las habitaciones y no limitarse a rebotar de pared a pared.
 
