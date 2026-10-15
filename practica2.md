@@ -9,13 +9,21 @@ El objetivo de esta práctica es programar un coche de formula 1 que siga una li
 
 ## Vídeo Demostrativo
 
-A continuación los video de los ciruitos
+A continuación los video de los ciruitos:
 
-[![Vídeo Circuit Simple](https://img.youtube.com/vi/Dfyiy2HQqYU/0.jpg)](https://www.youtube.com/watch?v=Dfyiy2HQqYU)
+Simple Circuit:
 
-Hay que hacer click en la imagen superior para acceder al video
+[![Vídeo Circuit Simple](https://youtu.be/UazcKyjHYI4)
 
-<img width="1920" height="1080" alt="Captura desde 2026-10-05 11-41-37" src="https://github.com/user-attachments/assets/6c2cd873-3f8a-4779-80b8-16d7d0420145" />
+Montreal Circuit:
+
+[![Vídeo Montreal Circuit](https://youtu.be/w6VvSaDyZV0)
+
+Montmelo Circuit:
+
+[![Vídeo Montmelo Circuit](https://youtu.be/yc_btENONeo)
+
+
 
 ---
 
