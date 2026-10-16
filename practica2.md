@@ -39,7 +39,9 @@ Para buscar el mejor funcionamiento de el sistema hice ciertas implemntaciones c
 - Para cuando el coche sale de la linea y la pierde de vista hago la función de else donde if busca a ver si hay deteccionees de lineas en M["m00"] y si no las hay en el else se actualiza la velocidad v a 0 y w a 1 osea que girara lentamente hasta que encuentre la linea y M["m00"]>0
 - Todo esto me ha hecho tener un sistema bastante estable donde se promedian los siguientes resultados:
     - Simple circuit 40,81 segundos
-    - 
+    - Montreal Circuit 127,28 segundos
+    - Montmelo Circuit 71,20 segundos
+    - Nurburgring Circuit 65,66 segundos
 
 
 ---
@@ -51,5 +53,7 @@ Para buscar el mejor funcionamiento de el sistema hice ciertas implemntaciones c
 - Tambien intenté implementar un integrador pero vi que primeramente para esta practica no era necesario y que me daba un error que era que ha sumar todos los erros rapidamente me escalaba a un numero muy alto y me daban giros exagerados llegandose a salir ed la pista, asique acabe reiniciando cada 1000 iteraciones summa_errores = 0
 - Por ultimo cuando el coche me hacia las vueltas entera intente aumentar la velocidad maxima que la tenia en 6 para hacer pruebas, y lo mejor que consegui de velocidad evitando respuestas raras y desvios descontrolados fue 12 moviendo tambien los controladores hasta la distribucion que tengo ahora, llegue a obtener buenos resultados con 18 y un mayor kd pero habia circuitos en los que no trazaba del todo bien asique decidí dejar la implemntacion actual que no me da para nada malos tiempos de resultado.
 
+---
+
 ## Conclusión
-El sistema con el tiempo suficiente (30 minutos aproximadmente) puede cubrir casi el 100% del terreno a rellnar en el ejemplo pero pasando muchas veces por el mismo sitio, pero esto significa que la aleatoriedad si ayuda a cubrir muchas zonas en terros irregulares y descnocidos, es una buena solucion temporal, pero para poder implemntar un robot mas rápido y eficaz habria que aplicarle una memoria al robot y el uso de mas sensores para unas mayor orientcacion en el entorno.
+El coche hace tiempos considerablemente buenos, haciendo curva ajustadas aunque con un poco de oscilacion en curvas muy cerradas, el sistema se podria llegar a escalar 
