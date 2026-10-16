@@ -23,7 +23,9 @@ Montmelo Circuit:
 
 [![Vídeo Montmelo Circuit](https://img.youtube.com/vi/yc_btENONeo/0.jpg)](https://www.youtube.com/watch?v=yc_btENONeo)
 
+Nurburgring Circuit:
 
+[![Vídeo Nurburgring Circuit](https://img.youtube.com/vi/vdcb4LT5Eo4/0.jpg)](https://www.youtube.com/watch?v=vdcb4LT5Eo4)
 
 ---
 
