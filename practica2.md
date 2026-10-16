@@ -29,7 +29,7 @@ Nurburgring Circuit:
 
 ---
 
-## Enfoque de la Solución y datos obtenidost
+## Enfoque de la Solución y datos obtenidos
 
 Para buscar el mejor funcionamiento de el sistema hice ciertas implemntaciones como las siguientes:
 - Funciones de calcular_w con el pid implementado, en este caso es un pd solo pero tambien inclui el factor de integración para que sea un codigo general y reusable.
