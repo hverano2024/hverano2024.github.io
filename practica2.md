@@ -56,4 +56,4 @@ Para buscar el mejor funcionamiento de el sistema hice ciertas implemntaciones c
 ---
 
 ## Conclusión
-El coche hace tiempos considerablemente buenos, haciendo curva ajustadas aunque con un poco de oscilacion en curvas muy cerradas, el sistema se podria llegar a escalar 
+El coche hace tiempos considerablemente buenos, haciendo curva ajustadas aunque con un poco de oscilacion en curvas muy cerradas, pero girando con precisión y velocidad mientras aminora la velocidad depende de lo cerrada que sea la curva, y acelerando el rectas para una mayor fluidez del coche
