@@ -13,15 +13,15 @@ A continuación los video de los ciruitos:
 
 Simple Circuit:
 
-[![Vídeo Circuit Simple](https://www.youtube.com/watch?v=UazcKyjHYI4)
+[![Vídeo Circuit Simple](https://img.youtube.com/vi/UazcKyjHYI4/0.jpg)](https://www.youtube.com/watch?v=UazcKyjHYI4)
 
 Montreal Circuit:
 
-[![Vídeo Montreal Circuit](https://www.youtube.com/watch?v=w6VvSaDyZV0)
+[![Vídeo Montreal Circuit](https://img.youtube.com/vi/w6VvSaDyZV0/0.jpg)](https://www.youtube.com/watch?v=w6VvSaDyZV0)
 
 Montmelo Circuit:
 
-[![Vídeo Montmelo Circuit](https://www.youtube.com/watch?v=yc_btENONeo)
+[![Vídeo Montmelo Circuit](https://img.youtube.com/vi/yc_btENONeo/0.jpg)](https://www.youtube.com/watch?v=yc_btENONeo)
 
 
 
