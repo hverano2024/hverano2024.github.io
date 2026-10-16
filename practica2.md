@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Práctica 2: Siguelineas"
+title: "Práctica 2: Coche Siguelineas"
 ---
 
-# Práctica 2: Robot Siguelineas
+# Práctica 2: Coche Siguelineas
 
 El objetivo de esta práctica es programar un coche de formula 1 que siga una linea para recorrer un circuito en el menor tiempo posible.
 
