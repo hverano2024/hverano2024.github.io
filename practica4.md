@@ -7,7 +7,7 @@ title: "Práctica 4: Taxi Autonomo Gpp"
 
 Programa un coche autónomo, equipado con un sensor GPS y un mapa de la ciudad, para que ejerza de taxi autónomo siendo capaz de planificar su navegación desde el lugar en el que se encuentra hasta otro punto de la ciudad como destino, utilizando el algoritmo de Gradient Path Planning.
 
-## Vídeo Demostrativo y resultados medios
+## Vídeo Demostrativo
 
 Video del mapeo y navegacion:
 
