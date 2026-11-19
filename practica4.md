@@ -23,7 +23,7 @@ He implementado una ejecucion secuencial donde declaro variables a None, obtengo
 -  calcular_siguiente_paso, en vez de mirar justo a la casilla en la que estoy miramos 5 pasos por delante para evitar zig zags, utilizando el campo haciendo lo que se dice en el eneunciado de descenso de gradiente para obtener la mejor casilla como opcion
 -  mover, en esta funcion hago un control adaptativo, de velocidad sacando el angulo y distantica con math.atan2(math.sin(error), math.cos(error)) y hago     w = max(-WMAX, min(WMAX, K * error))    v = max(VMIN, VMAX * (1 - abs(error) / 1.0)) para sacar las velocidades
 -  destino_conseguido donde se miran las casillas del al rededor de robot con un radio 1 y si coinciden con la casilla del objetivo devuelve true
--  mostrar_ruta, esta funcion la cree para mostrar la supuesta ruta que se deberia seguir en caso de crearla con un algoritmo bfs, pero NO se usa para que el robot la use solo para mostrarse por pantalla
+-  mostrar_ruta, esta funcion la cree para mostrar la supuesta ruta que se deberia seguir en caso de crearla, pero NO se usa para que el robot la siga solo para mostrarse por pantalla la ruta idilica que se deberia seguir, pero el robor navega en cada iteracion
 
 ---
 
